@@ -1,1 +1,1 @@
-git merge main master
+git merge origin master
